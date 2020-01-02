@@ -1,0 +1,6 @@
+[
+    {
+      "name": "sample-app",
+      "imageUri": "313598482850.dkr.ecr.us-east-1.amazonaws.com/hello-world:latest"
+    }
+  ]
